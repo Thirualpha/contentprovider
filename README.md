@@ -59,10 +59,10 @@ Registeration Number : 212221040171
 </RelativeLayout>
   
  
-
+```
 
 ## MainActivity.Java
-
+```
 
 package com.example.contentprovider;
 import android.Manifest;
